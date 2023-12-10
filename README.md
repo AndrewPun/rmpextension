@@ -14,10 +14,11 @@ The RateMySJSU is a Google Chrome extension designed to integrate RateMyProfesso
 ## Installation
 
 1. Download the extension from the [GitHub repository](https://github.com/JovelRamos/RateMySJSU).
-2. Open Google Chrome and navigate to `chrome://extensions/`.
-3. Enable 'Developer Mode' at the top-right corner.
-4. Click on 'Load unpacked' and select the downloaded extension folder.
-5. The extension should now be active on your Chrome browser.
+2. Extract the folder.
+3. Open Google Chrome and navigate to `chrome://extensions/`.
+4. Enable 'Developer Mode' at the top-right corner.
+5. Click on 'Load unpacked' and select the downloaded extension folder with the path C:\Users\(User)\Downloads\rmpextension-main\rmpextension-main. The css, icons, and js folders should be in the current directory.
+6. The extension should now be active on your Chrome browser.
 
 ## Usage
 
